@@ -18,7 +18,7 @@ define( 'MEZU_PLUGIN_FILE', __FILE__ );
 define( 'MEZU_PLUGIN_VERSION', get_file_data( __FILE__, [ 'Version' ] )[ 0 ] );
 
 # ------------------------------------------------------------------------------
-# Lorem ipsum dolor sit amet.
+# Lorem ipsum dolor sit amet
 # ------------------------------------------------------------------------------
 #
 # Suspendisse sodales ipsum non justo imperdiet, ut lacinia erat
@@ -33,7 +33,7 @@ add_action( 'mezu/autoload/loader', function ( \Composer\Autoload\ClassLoader $l
 } );
 
 # ------------------------------------------------------------------------------
-# Lorem ipsum dolor sit amet.
+# Lorem ipsum dolor sit amet
 # ------------------------------------------------------------------------------
 #
 # Suspendisse sodales ipsum non justo imperdiet, ut lacinia erat
@@ -47,7 +47,7 @@ add_action( 'mezu/autoload', function () {
 } );
 
 # ------------------------------------------------------------------------------
-# Lorem ipsum dolor sit amet.
+# Lorem ipsum dolor sit amet
 # ------------------------------------------------------------------------------
 #
 # Suspendisse sodales ipsum non justo imperdiet, ut lacinia erat
@@ -63,7 +63,7 @@ add_action( 'mezu/autoload', function () {
 } );
 
 # ------------------------------------------------------------------------------
-# Lorem ipsum dolor sit amet.
+# Lorem ipsum dolor sit amet
 # ------------------------------------------------------------------------------
 #
 # Suspendisse sodales ipsum non justo imperdiet, ut lacinia erat
@@ -80,7 +80,7 @@ add_action( 'mezu/autoload', function () {
 } );
 
 # ------------------------------------------------------------------------------
-# Lorem ipsum dolor sit amet.
+# Lorem ipsum dolor sit amet
 # ------------------------------------------------------------------------------
 #
 # Suspendisse sodales ipsum non justo imperdiet, ut lacinia erat
